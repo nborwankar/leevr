@@ -7,15 +7,17 @@ Sounds awesome but how are you going to do that, you ask? Simple. Client side HT
 
 ## What? How?  
 
-
+more to come
 
 
 ## How to use
 
+more to come
+
 
 ## Why do we need this?
 
-placeholder
+more to come
 
 ## Is this legal?
 
