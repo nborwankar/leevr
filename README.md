@@ -15,11 +15,14 @@ Sounds awesome but how are you going to do that, you ask? Simple. Client side HT
 * Set your browser's proxy setting to localhost:5000 or 127.0.0.1:5000 (note on MacOSX you can do this for the whole machine not just one browser, all with one setting in Networks)
 * Browse as usual and watch all the traffic fly by in the console.
 * Especially interesting watching the browser make periodic requests and send stuff when you are not even at the keyboard.
+* Save console output after processing, to CouchDB, Redis, Mongo or even MySQL
 * Right now Leevr is useful to node hackers and fairly technical folks, this is not a consumer product.
 
 ## Why do we need this?
 
 I want to see what is being tracked about me and my machine and browsing patterns.  I need it.  If you do please use it extend it do whatever you want with it. If you don't want to see or know what's being tracked about you probably don't know it.
+Right now Leevr is useful to node hackers and fairly technical folks, this is not a consumer product.  So even if you need it it may not be immediately usable if you don't fit the description.  I expect/hope this will change fairly rapidly as the idea
+spreads.
 
 ## How do I participate?
 
@@ -32,7 +35,7 @@ I want to see what is being tracked about me and my machine and browsing pattern
 
 ## What next?
 
-* write code to save the browsing history in a database and run some reports on it - see which sites are doing what
-* get some mobile hackers to do similar things on the phone via Leevr on a wi-fi network
-* ditto but getting this to work on wireless browsing  (doesn't have to be node.js but does have to be an http+some other protocol proxy) this last step is way beyond my capabilities but I'm sure some one will pick this up and run with it.
+* I want to write code to save the browsing history in a database and run some reports on it - see which sites are doing what
+* I'd like to invite some mobile hackers to do similar things on the phone via Leevr on a wi-fi network
+* Ditto but getting this to work during wireless browsing i.e HTTP over cell phone protocols not wi-fi. Doesn't have to be node.js but does have to be an http + some other protocol proxy. This last step is way beyond my capabilities but I'm hoping some one will pick this up and run with it.
 
