@@ -11,14 +11,27 @@ Sounds awesome but how are you going to do that, you ask? Simple. Client side HT
 
 ## How to use
 
-more to come
-
+### Run Leevr on your desktop/laptop (say on port 5000) - watch the console you run it from 
+### Set your browser's proxy setting to localhost:5000 or 127.0.0.1:5000 (note on MacOSX you can do this for the whole machine not just one browser, all with one setting in Networks)
+### Browse as usual and watch all the traffic fly by in the console.
+### Especially interesting watching the browser make periodic requests and send stuff when you are not even at the keyboard.
+### Right now Leevr is useful to node hackers and fairly technical folks, this is not a consumer product.
 
 ## Why do we need this?
 
-more to come
+I want to see what is being tracked about me and my machine and browsing patterns.  I need it.  If you do please use it extend it do whatever you want with it. If you don't want to see or know what's being tracked about you probably don't know it.
 
-## Is this legal?
+## What next?
 
+   # save the browsing history in a database and run some reports on it - see which sites are doing what
+   # get some mobile hackers to do similar things on the phone via Leevr on a wi-fi network
+   # ditto but getting this to work on wireless browsing  (doesn't have to be node.js but does have to be an http+some other protocol proxy) this last step is way beyond my capabilities but I'm sure some one will pick this up and run with it.
 
-*Note* A note
+## How do I participate?
+
+   # Run Leevr and start overturning the Internet
+   # Join the Leevr list http://groups.google.com/leevr
+   # Fork leevr on github - send me pull requests or not either is fine - run with it
+   # Work for increasing individual privacy protections on the Internet
+   # Don't make the situation worse by creating software that tracks people without their knowledge 
+   # Have fun.  Leevr is meant to be a fun joyfully freeing and exhilarating experience.
