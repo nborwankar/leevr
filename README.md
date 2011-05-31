@@ -23,9 +23,8 @@ Simple. Client side HTTP-proxying (via node.js in this case but you can use what
 
 ## Why do we need this?
 
-I want to see what is being tracked about me and my machine and browsing patterns.  I need it.  If you do please use it extend it do whatever you want with it. If you don't want to see or know what's being tracked about you probably don't know it.
-Right now Leevr is useful to node hackers and fairly technical folks, this is not a consumer product.  So even if you need it it may not be immediately usable if you don't fit the description.  I expect/hope this will change fairly rapidly as the idea
-spreads.
+I want to see what is being tracked about me and my machine and browsing patterns.  I need it.  If you do please use it extend it do whatever you want with it. If you don't want to see or know what's being tracked about you, then oyu probably don't need it.
+Right now Leevr is useful to node hackers and fairly technical folks, this is not a consumer product.  So even if you need it, it may not be immediately usable if you don't fit the description.  I expect/hope this will change fairly rapidly as the idea spreads.
 
 ## How do I participate?
 
