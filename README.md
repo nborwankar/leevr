@@ -1,10 +1,11 @@
 # What is Leevr
 
-Leevr is an Archimidean Lever to overturn the Internet.  Or more precisely to help revert the structure of Internet interactions so that the individual user has more power, again.  This has been lost IMHO with all the privacy viloating use of the Internet.  Engineers and hackers created the Internet but the HTTP protocol has been polluted by highly intrusive use of cookies and other client side user tracking technologies, and HTML has also been polluted by use of tracking pixels and similar technologies.  Individuals feel powerless to know what is being tracked about them and how?
+Leevr is an Archimidean Lever to overturn the Internet.  Or more precisely to help revert the structure of Internet interactions so that the individual user has more power, again.  This has been lost IMHO with all the privacy violating use of the Internet. The HTTP protocol has been polluted by highly intrusive use of cookies and other client side user tracking technologies, and HTML has also been polluted by use of tracking pixels and similar technologies.  Individuals feel powerless to know what is being tracked about them and how.
 
+Engineers and hackers created the Internet - engineers and hackers can claim it back.
 The first step is to track the trackers, to shine some sunlight on this "dark side of the Internet" just so we can all see what is going on on our own private property, our computing devices.
 
-Sounds awesome but how are you going to do that, you ask? 
+"Sounds awesome but how are you going to do that", you ask? 
 
 Simple. Client side HTTP-proxying (via node.js in this case but you can use what you want) 
 
