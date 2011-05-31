@@ -7,8 +7,7 @@ Sounds awesome but how are you going to do that, you ask? Simple. Client side HT
 
 ## What? How?  
 
-
-picture here
+      Browser <----> Client-side HTTP Proxy running on desktop/laptop <----> /\/ <----> WWW.SOMEWEBSITE.COM
 
 ## How to use
 
