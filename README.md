@@ -1,17 +1,20 @@
-# What is Leevr
+# What is Leevr?
 
 Leevr is an [Archimedean Lever](http://www.goodreads.com/quotes/show/16830 "Give me a place to stand, and a lever long enough, and I will move the world")  to overturn the Internet.  
 
 ![Image of Archimedes and Lever](http://4.bp.blogspot.com/_3vg_LrxE41Q/TUKhjCk7P3I/AAAAAAAAAeA/ezxufpmOCNA/s1600/Archimedes+lever.jpg)
 
-Or more precisely to help revert the structure of Internet interactions so that the individual user has more power, again.  This has been lost IMHO with all the privacy violating use of the Internet. The HTTP protocol has been polluted by highly intrusive use of cookies and other client side user tracking technologies, and HTML has also been polluted by use of tracking pixels and similar technologies.  Individuals feel powerless to know what is being tracked about them and how.
+Or more precisely to help revert the structure of Internet interactions so that the individual user has more power, again.  This has been lost IMHO with all the privacy violating use of the Internet. 
+
+The HTTP protocol has been polluted by highly intrusive use of cookies and other client side user tracking technologies, and HTML has also been polluted by use of tracking pixels and similar technologies.  Individuals feel powerless to know what is being tracked about them and how.
 
 Engineers and hackers created the Internet - engineers and hackers can claim it back.
+
 The first step is to track the trackers, to shine some sunlight on this "dark side of the Internet" just so we can all see what is going on on our own private property, our computing devices.
 
 "Sounds awesome but how are you going to do that", you ask? 
 
-Simple. Client side HTTP-proxying (via node.js in this case but you can use what you want) 
+Simple. Client side HTTP-proxying (via node.js in this case but you can use what you want).
 
 ## What? What?? What??? How?  
 
@@ -20,6 +23,7 @@ Simple. Client side HTTP-proxying (via node.js in this case but you can use what
 ## How to use
 
 * Run Leevr on your desktop/laptop (say on port 5000) - watch the console from which you run it. 
+* Note: Leevr at this very early stage needs node.js. 
 * Set your browser's proxy setting to localhost:5000 or 127.0.0.1:5000 (note on most OS's you can do this for the whole machine not just one browser, all with one setting in your system network config.)
 * Browse as usual and watch all the traffic fly by in the console.
 * It's especially interesting to watch the browser make periodic requests and send stuff when you are not even at the keyboard.
