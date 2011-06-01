@@ -25,7 +25,8 @@ Simple. Client side HTTP-proxying (via node.js in this case but you can use what
 
 ## How to use
 
-* Run Leevr on your desktop/laptop (say on port 5000) - watch the console from which you run it. 
+* Edit config.js to set the port on which the proxy runs, say 5000
+* Run Leevr on your desktop/laptop - watch the console from which you run it. 
 * Note: Leevr at this very early stage needs node.js. 
 * Set your browser's proxy setting to localhost:5000 or 127.0.0.1:5000 (note on most OS's you can do this for the whole machine not just one browser, all with one setting in your system network config.)
 * Browse as usual and watch all the traffic fly by in the console.
