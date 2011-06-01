@@ -4,6 +4,8 @@ Leevr is an [Archimedean Lever](http://www.goodreads.com/quotes/show/16830 "Give
 
 ![Image of Archimedes and Lever](http://4.bp.blogspot.com/_3vg_LrxE41Q/TUKhjCk7P3I/AAAAAAAAAeA/ezxufpmOCNA/s1600/Archimedes+lever.jpg)
 
+(credits)
+
 Or more precisely to help revert the structure of Internet interactions so that the individual user has more power, again.  This has been lost IMHO with all the privacy violating use of the Internet. 
 
 The HTTP protocol has been polluted by highly intrusive use of cookies and other client side user tracking technologies, and HTML has also been polluted by use of tracking pixels and similar technologies.  Individuals feel powerless to know what is being tracked about them and how.
@@ -38,7 +40,7 @@ Right now Leevr is useful to node hackers and fairly technical folks, this is no
 ## How do I participate?
 
 * Run Leevr and start overturning the Internet.
-* Join the Leevr list http://groups.google.com/leevr .
+* Join the Leevr list http://groups.google.com/group/leevr .
 * Fork leevr on github - send me pull requests or not either is fine - run with it.  This is not my day job or even my second job, so I may be tardy in responding to pull requests. Proactive apologies.
 * Work for increasing individual privacy protections on the Internet.
 * Don't make the situation worse by creating software that tracks people without their knowledge. 
