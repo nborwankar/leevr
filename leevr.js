@@ -2,6 +2,7 @@
 **
 ** Almost completely based on nodejs-proxy 
 ** by Peteris Krumins (peter@catonmat.net)  http://www.catonmat.net  
+** https://github.com/pkrumins/nodejs-proxy
 ** I fixed a couple of bugs and stripped out a whole bunch of stuff based on white list and black lists
 ** That may need to be put back in again but driven from the database and appropriately wrapped
 ** to make it db independent (TBD), instead of being file driven.

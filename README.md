@@ -57,8 +57,9 @@ Right now Leevr is useful to node hackers and fairly technical folks, this is no
 #### Credits
 
 Leevr is almost entirely based on code from nodejs-proxy by Peteris Krumins (peter@catonmat.net)  http://www.catonmat.net  
-I fixed a couple of bugs and stripped out a whole bunch of stuff based on white list and black lists, which may need to be put back in later in database formats.
-I had been looking for something like this for a long, long time. Nodejs-proxy and node.js made the Leevr project possible. 
+http://github.com/pkrumins/nodejs-proxy
+
+I fixed a couple of bugs and stripped out a whole bunch of stuff based on white lists and black lists, which may need to be put back in later in database formats. I had been looking for something like this for a long, long time. Nodejs-proxy and node.js made the Leevr project possible. 
 So a huge thanks to Peteris and also to the awesome Ryan Dahl.
 
 #### Licenses and copyrights and trademarks and similar stuff
@@ -78,7 +79,9 @@ You can also start an entirely new project using these ideas and run far and wid
 Just have fun and don't forget to overturn the Internet.
 
 Hey maybe I ought to copyright "Overturn the Internet" while I am in this (c) happy mood.
-So here goes "Overturn the Internet" is (c) Nit... aww forget it ... go have fun. Use the phrase, yell it from the rooftops put it on the Internet, what do I care.  But don't blame me when the Internet falls on your head. You've been warned. Now shoo, shoo! I got a lot of leevraging to do.
+So here goes "Overturn the Internet" is (c) Nit... aww forget it ... go have fun. Use the phrase, yell it from the rooftops, put it on the Internet, what do I care.  
+
+But don't blame me when the Internet falls on your head. You've been warned. Now shoo, shoo! I got a lot of leevraging to do.
 
 
 
