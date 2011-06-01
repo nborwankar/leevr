@@ -2,7 +2,7 @@
 
 Leevr is an [Archimedean Lever](http://www.goodreads.com/quotes/show/16830 "Give me a place to stand, and a lever long enough, and I will move the world")  to overturn the Internet.  
 
-![Image of Archimedes and Lever](./etc/archimedeanpoint.jpg "Photo credit: http://cartoonstudio.files.wordpress.com")
+![Image of Archimedes and Lever](archimedeanpoint.jpg "Photo credit: http://cartoonstudio.files.wordpress.com")
 
 Or more precisely to help revert the structure of Internet interactions so that the individual user has more power, again.  This has been lost IMHO with all the privacy violating use of the Internet. The HTTP protocol has been polluted by highly intrusive use of cookies and other client side user tracking technologies, and HTML has also been polluted by use of tracking pixels and similar technologies.  Individuals feel powerless to know what is being tracked about them and how.
 
