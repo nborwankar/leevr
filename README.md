@@ -4,7 +4,7 @@ Leevr is an [Archimedean Lever](http://www.goodreads.com/quotes/show/16830 "Give
 
 ![Image of Archimedes and Lever](http://4.bp.blogspot.com/_3vg_LrxE41Q/TUKhjCk7P3I/AAAAAAAAAeA/ezxufpmOCNA/s1600/Archimedes+lever.jpg)
 
-(credits)
+(photo credit http://cartoonstudio.files.wordpress.com )
 
 Or more precisely to help revert the structure of Internet interactions so that the individual user has more power, again.  This has been lost IMHO with all the privacy violating use of the Internet. 
 
