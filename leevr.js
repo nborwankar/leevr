@@ -50,5 +50,5 @@ function server_cb(request, response) {
 
 }
 
-sys.log("Starting Leevr on port - getting ready to overturn the Internet '" + config.proxy_port);
+sys.log("Starting Leevr on port "+ config.proxy_port + " - getting ready to overturn the Internet.");
 http.createServer(server_cb).listen(config.proxy_port);
