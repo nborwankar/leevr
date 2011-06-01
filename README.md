@@ -69,7 +69,7 @@ Just the usage and the overall direction of the project is mine.
 Also client side proxying in general is not rocket science so you can use any code to achieve the goals of Leevr and I encourage you to use as many different
 technologies to do this as possible.  Node.js has the chunked HTTP stuff that makes this somewhat trivial to do (that's what my understanding is, at least) - else you'll have to write and rewrite buffers and stuff yourself. So good luck with that.
 
-I feel it's important enough to trademark and copyright the word "Leevr" just to prevent nastiness and misleading stuff from. So here it is
+I feel it's important enough to trademark and copyright the word "Leevr" just to prevent nastiness and misleading stuff from malicious impostors. So here it is
 "Leevr" is (tm) Nitin Borwankar, 2011 and (c) Nitin Borwankar, 2011.
 
 You can fork this code and call it Leevr of course but if you try to make a product out of it you'll have to call it something else for obvious reasons.
@@ -77,7 +77,7 @@ You can also start an entirely new project using these ideas and run far and wid
 Just have fun and don't forget to overturn the Internet.
 
 Hey maybe I ought to copyright "Overturn the Intenet" while I am in this (c) happy mood.
-So here goes "Overturn in the Internet" is (c) Nit... aww forget it ... go have fun. Use the phrase, yell it from the rooftops put it on the Internet, what do I care.  But don't blame me when the Internet falls on your head. You've been warned. Now shoo, shoo! I got a lot of leevraging to do.
+So here goes "Overturn the Internet" is (c) Nit... aww forget it ... go have fun. Use the phrase, yell it from the rooftops put it on the Internet, what do I care.  But don't blame me when the Internet falls on your head. You've been warned. Now shoo, shoo! I got a lot of leevraging to do.
 
 
 
