@@ -23,7 +23,9 @@ var config = require('./config').config;
 function server_cb(request, response) {
   var ip = request.connection.remoteAddress;
   sys.log(ip + ": " + request.method + " " + request.url);
-  sys.log("client: " + request.agent);
+  sys.log("client: " + request.headers['user-agent']);
+  //sys.log("headers: " + JSON.stringify(request.headers));
+
   var host = request.headers['host'].split(':');
   var proxy = http.createClient(host[1] || 80, host[0])
   var proxy_request = proxy.request(request.method, request.url, request.headers);

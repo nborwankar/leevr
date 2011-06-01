@@ -73,10 +73,11 @@ I feel it's important enough to trademark and copyright the word "Leevr" just to
 "Leevr" is (tm) Nitin Borwankar, 2011 and (c) Nitin Borwankar, 2011.
 
 You can fork this code and call it Leevr of course but if you try to make a product out of it you'll have to call it something else for obvious reasons.
+But you can make up PyLeevr, JLeevr, LeevR, LeevrDotNet etc etc and run with them.
 You can also start an entirely new project using these ideas and run far and wide with it and call it FreeboliciousProximatic for all I care.
 Just have fun and don't forget to overturn the Internet.
 
-Hey maybe I ought to copyright "Overturn the Intenet" while I am in this (c) happy mood.
+Hey maybe I ought to copyright "Overturn the Internet" while I am in this (c) happy mood.
 So here goes "Overturn the Internet" is (c) Nit... aww forget it ... go have fun. Use the phrase, yell it from the rooftops put it on the Internet, what do I care.  But don't blame me when the Internet falls on your head. You've been warned. Now shoo, shoo! I got a lot of leevraging to do.
 
 
